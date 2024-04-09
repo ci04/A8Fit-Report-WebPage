@@ -6,9 +6,9 @@ URL : https://exmple.com
 
 Port : 80
 
-Request : 999999
+Request : 10
 
-Package : 500
+Package : 999999
 .... Enjoy
 # How to install ?
 ```
